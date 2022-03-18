@@ -11,11 +11,47 @@ I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative 
 
 Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.renderforestsites.com)
 
-## 📝 Latest Blog Posts
+## 📌 Pinned Repositories
 
 <br>
 
-<!-- BLOG-POST-LIST:START -->
+<a href="https://github.com/mehmet5643/OrderAutomation">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=OrderAutomation&theme=dracula&hide_border=true" />
+</a>
 
+<br>
+
+<a href="https://github.com/mehmet5643/Python_problemler.py">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Python_problemler.py&theme=dracula&hide_border=true" />
+
+</a>
+
+<br>
+
+<a href="https://github.com/mehmet5643/Blockchain">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=dracula&hide_border=true" />
+</a>
+
+
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/mehmet5643">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=dracula&hide_border=true" />
+</a>
+<br>
+<a href="https://github.com/mehmet5643">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=dracula&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
+</a>
+
+
+<br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=dark&hide_border=true">
+ 
 <!-- BLOG-POST-LIST:END -->
 
