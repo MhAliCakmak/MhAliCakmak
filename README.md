@@ -20,7 +20,7 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=OrderAutomation&theme=dark&hide_border=true" />
 </a>
 
-<br>
+
 
 <a href="https://github.com/mehmet5643/Python_problemler.py">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Python_problemler.py&theme=dark&hide_border=true" />
@@ -33,7 +33,7 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 
 </a>
 
-<br>
+
 
 <a href="https://github.com/mehmet5643/Blockchain">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=dark&hide_border=true" />
