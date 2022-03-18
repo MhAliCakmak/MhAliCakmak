@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative personality that does not lose its researcher spirit in the field of Blockchain. I am confident in leadership and project management .
+I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative personality that does not lose its researcher spirit in the field of Blockchain. I am confident in leadership and project management and I am Blockchain Developer in Rens token office.
 
 Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.renderforestsites.com)
 
@@ -23,6 +23,12 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 
 <a href="https://github.com/mehmet5643/Python_problemler.py">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Python_problemler.py&theme=dracula&hide_border=true" />
+
+</a>
+
+<br>
+<a href="https://github.com/mehmet5643/https://github.com/mehmet5643/test-dapp">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=test-dapp&theme=dracula&hide_border=true" />
 
 </a>
 
