@@ -17,26 +17,26 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 <br>
 
 <a href="https://github.com/mehmet5643/OrderAutomation">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=OrderAutomation&theme=dark&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=OrderAutomation&theme=bear&hide_border=true" />
 </a>
 
 
 
 <a href="https://github.com/mehmet5643/Python_problemler.py">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Python_problemler.py&theme=dark&hide_border=true" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Python_problemler.py&theme=bear&hide_border=true" />
 
 </a>
 
 <br>
 <a href="https://github.com/mehmet5643/https://github.com/mehmet5643/test-dapp">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=test-dapp&theme=dark&hide_border=true" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=test-dapp&theme=bear&hide_border=true" />
 
 </a>
 
 
 
 <a href="https://github.com/mehmet5643/Blockchain">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=dark&hide_border=true" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=bear&hide_border=true" />
 </a>
 
 
@@ -49,16 +49,16 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 <br>
 
 <a href="https://github.com/mehmet5643">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=dark&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=bear&hide_border=true" />
 </a>
 <br>
 <a href="https://github.com/mehmet5643">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=dark&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
 
 
 <br>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=dark&hide_border=true">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
  
 <!-- BLOG-POST-LIST:END -->
 
