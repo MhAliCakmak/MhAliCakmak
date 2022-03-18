@@ -1,5 +1,5 @@
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:softremedy.org)
+[![Fallower](https://img.shields.io/github/followers/mehmet5643?color=Red&logoColor=Grey&style=social)](https:softremedy.org)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MehmetSoftw)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mehmet-ali-çakmak--software/)
 
