@@ -28,10 +28,7 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 </a>
 
 <br>
-<a href="https://github.com/mehmet5643/YazilimYapimi">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=YazilimYapimi&theme=bear&hide_border=true"/>
 
-</a>
 
 
 
@@ -42,7 +39,10 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=bear&hide_border=true" />
 </a>
 
+<a href="https://github.com/mehmet5643/YazilimYapimi">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=YazilimYapimi&theme=bear&hide_border=true"/>
 
+</a>
 
 <br>
 <br>
