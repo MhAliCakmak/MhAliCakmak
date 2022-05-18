@@ -29,7 +29,7 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 
 <br>
 <a href="https://github.com/mehmet5643/YazilimYapimi">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=YazilimYapimi&theme=bear&hide_border=true" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=YazilimYapimi&theme=bear&hide_border=true"/>
 
 </a>
 
