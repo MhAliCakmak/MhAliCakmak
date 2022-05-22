@@ -48,20 +48,22 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 <br>
 
 ## &#x1f4c8; GitHub Stats
-
+<div class="row">
+  <div class="col">
 <br>
 
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=bear&hide_border=true" />
 </a>
-
+  </div>
+<div class="col">
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
-
-
+</div>
+<div class="col">
 
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
- 
+ </div></div>
 <!-- BLOG-POST-LIST:END -->
 
