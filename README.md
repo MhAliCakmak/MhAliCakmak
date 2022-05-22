@@ -54,7 +54,7 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=bear&hide_border=true" />
 </a>
-<br>
+
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
