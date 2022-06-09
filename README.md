@@ -68,6 +68,6 @@ Want to know more about me? [Check out my portfolio.](http://mehmetalicakmak.ren
 <div class="col">
 
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
- </div></div>
+ </div>
 <!-- BLOG-POST-LIST:END -->
 
