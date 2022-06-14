@@ -1,18 +1,25 @@
 [![MEHMET ALİ ÇAKMAK](https://user-images.githubusercontent.com/79807829/159086790-9d28756c-2f4e-4e85-baec-e5f3e98361c4.png
 )](softremedy.org)
 [![Fallower](https://img.shields.io/github/followers/mehmet5643?color=Red&logoColor=Grey&style=social)](https:softremedy.org)
+&ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:mehmet_cbu63@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MehmetSoftw)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mehmet-ali-çakmak--software/)
+[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://softremedy.org)
+![](https://komarev.com/ghpvc/?username=mehmet5643&color=blueviolet&style=flat-square)
 
 
 
 Hey there 👋
 
+
 I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative personality that does not lose its researcher spirit in the field of Blockchain. I am confident in leadership and project management and I am Blockchain Developer in Rens token office.
 
-Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak--software/)
+Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak--software/)<br>
 
 <div>
+   🌱 I'm currently learning:
+   <br>
+   <br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -22,11 +29,13 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+
   
 </div>
+<br>
+:rocket: I'm use these tools:
+
+&ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
 ## &#128204;Pinned Repositories
 
@@ -76,6 +85,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=bear&hide_border=true" />
 </a>
   </div>
+   </div>
+ <div class="row">
 <div class="col">
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
@@ -85,5 +96,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
  </div>
+  </div>
+  
 <!-- BLOG-POST-LIST:END -->
 
