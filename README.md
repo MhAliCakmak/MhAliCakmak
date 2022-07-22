@@ -60,7 +60,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 
 <a href="https://github.com/mehmet5643/Blockchain">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=bear&hide_border=false" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Blockchain&theme=bear&hide_border=true" />
 </a>
 
 
@@ -71,6 +71,10 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <br>
 <a href="https://github.com/mehmet5643/C-pointer-">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=C-pointer-&theme=bear&hide_border=true"/>
+
+</a>
+<a href="https://github.com/mehmet5643/Solidity">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Solidity&theme=bear&hide_border=true"/>
 
 </a>
 <br>
