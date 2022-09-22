@@ -87,7 +87,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <br>
 
 <a href="https://github.com/mehmet5643">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html,css&theme=bear&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html&line_height=45,css&theme=bear&hide_border=true" />
 </a>
   </div>
    </div>
