@@ -16,8 +16,11 @@ Hey there 👋
 I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative personality that does not lose its researcher spirit in the field of Blockchain. I am confident in leadership and project management and I am Blockchain Developer 
 
 Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak--software/)<br>
+## Note
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+Can+Find+Code+About+;Blockchain+And+DApp+;Python+;Django+;React+;Next.js+;Happy+Deploying+%F0%9F%92%96)](https://git.io/typing-svg)
 
 <div>
+
    🌱 I'm currently learning:
    <br>
    <br>
@@ -35,6 +38,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 </div>
 <br>
 :rocket: I'm use these tools:
+
 
 &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Docker](https://img.shields.io/badge/-Docker-384D54?style=flat-square&logo=Docker)&ensp;![Webpack](https://img.shields.io/badge/-Webpack-1C78C0?style=flat-square&logo=Webpack)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
