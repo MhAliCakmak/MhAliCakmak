@@ -18,7 +18,7 @@ I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative 
 
 Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak--software/)<br>
 ## Note
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+Can+Find+Code+Here+About+;Blockchain+And+DApp+;Python+;Django+;React+;Next.js+;Happy+Deploying+%F0%9F%92%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+Can+Find+Code+Here+About+;Blockchain+And+DApp+;Python+;Django+;React+;Next.js+;Happy+Deploying+%F0%9F%92%96)](https://github.com/mehmet5643)
 
 <div>
 
