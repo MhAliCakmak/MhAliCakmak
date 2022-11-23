@@ -53,8 +53,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 
 
-<a href="https://github.com/mehmet5643/Python_Samples">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Python_Samples&theme=bear&hide_border=true" />
+<a href="https://github.com/mehmet5643/react-web3">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=react-web3&theme=bear&hide_border=true" />
 
 </a>
 
@@ -104,7 +104,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 </div>
 <div class="col">
 
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
  </div>
   </div>
   
