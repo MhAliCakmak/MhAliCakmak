@@ -103,13 +103,14 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    
 
 <div class="col">
+   <p align="center">
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
-   
-      
+   </p>
+    <p align="center">  
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
-   
+   </p>
    </div>
   
 </div>
