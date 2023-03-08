@@ -47,7 +47,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 ## &#128204;Pinned Repositories
 
 <br>
-
+<p align="center">
 <a href="https://github.com/mehmet5643/Marketplace-web3">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Marketplace-web3&theme=bear&hide_border=true" />
 </a>
@@ -76,39 +76,56 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=EduWebsite&theme=bear&hide_border=true"/>
 
 </a>
-<br>
+
 <a href="https://github.com/mehmet5643/patika-Frontend">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=patika-Frontend&theme=bear&hide_border=true"/>
 
 </a>
+   
 <a href="https://github.com/mehmet5643/Solidity">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Solidity&theme=bear&hide_border=true"/>
 
 </a>
+   </p>
 <br>
 <br>
 
 ## &#x1f4c8; GitHub Stats
 <div class="row">
-  <div class="col">
-<br>
+  <div class="col" style="display: flex;align-items: center;justify-content: center;">
+<p align="center">
 
 <a href="https://github.com/mehmet5643">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html&line_height=45,css&theme=bear&hide_border=true" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html&line_height=45,css&theme=bear&hide_border=true" />
 </a>
+     </p>
   </div>
-   </div>
- <div class="row">
+   
+
 <div class="col">
 <a href="https://github.com/mehmet5643">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
-</div>
-<div class="col">
-
+   
+      
   <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
- </div>
-  </div>
+   
+   </div>
   
-<!-- BLOG-POST-LIST:END -->
+</div>
+
+<h2 align="center">🤝 Support</h2>
+
+<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in Turkey</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 
