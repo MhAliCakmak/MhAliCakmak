@@ -29,6 +29,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
     <img src="https://github.com/mehmet5643/mehmet5643/blob/main/asset/hardhat-seeklogo.com.svg"  title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
    <img src="https://github.com/mehmet5643/mehmet5643/blob/main/asset/ethereum-eth-seeklogo.com.svg"  title="Ethereum" alt="Ethereum" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/mehmet5643/mehmet5643/blob/main/asset/waffle-seeklogo.com.svg"  title="waffle" alt="waflle" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"  title="next-js" alt="next-js" width="40" height="40"/>&nbsp;
