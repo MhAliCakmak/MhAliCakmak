@@ -77,8 +77,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    <br>
 
 
-<a href="https://github.com/mehmet5643/EduWebsite">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=EduWebsite&theme=bear&hide_border=true"/>
+<a href="https://github.com/mehmet5643/ai-mern-image-generation">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=ai-mern-image-generation&theme=bear&hide_border=true"/>
 
 </a>
 
