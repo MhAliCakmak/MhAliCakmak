@@ -1,4 +1,4 @@
-[![MEHMET ALİ ÇAKMAK](https://github.com/mehmet5643/mehmet5643/blob/main/asset/banner_github.png
+[![MEHMET ALİ ÇAKMAK](https://github.com/mehmet5643/mehmet5643/blob/main/asset/github_banner.png
 )](https://softremedy.org/)
 <br>
 [![Fallower](https://img.shields.io/github/followers/mehmet5643?color=Red&logoColor=Grey&style=social)](https:softremedy.org)
