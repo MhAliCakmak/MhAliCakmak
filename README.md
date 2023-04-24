@@ -4,7 +4,7 @@
 [![Fallower](https://img.shields.io/github/followers/mehmet5643?color=Red&logoColor=Grey&style=social)](https:mehmetalicakmak.org)
 &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:mehmet_cbu63@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MehmetSoftw)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mehmet-ali-çakmak--software/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mehmet-ali-cakmak--software/)
 [![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://mehmetalicakmak.org)
 ![](https://komarev.com/ghpvc/?username=mehmet5643&color=blueviolet&style=flat-square)
 
@@ -16,7 +16,7 @@ Hey there 👋
 
 I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative personality that does not lose its researcher spirit in the field of Blockchain. I am confident in leadership and project management and I am Blockchain Developer 
 
-Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-%C3%A7akmak--software/)<br>
+Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-cakmak--software/)<br>
 
 ## Note
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=You+Can+Find+Code+Here+About+;Blockchain+And+DApp+;Python+;Django+;React+;Next.js+;Happy+Deploying+%F0%9F%92%96)](https://github.com/mehmet5643)
