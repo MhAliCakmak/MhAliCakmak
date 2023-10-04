@@ -55,14 +55,14 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <br>
 <p align="center">
 <a href="https://github.com/mehmet5643/Marketplace-web3">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Marketplace-web3&theme=bear&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Marketplace-web3&theme=algolia&hide_border=true" />
 </a>
 
 
 
 
 <a href="https://github.com/mehmet5643/react-web3">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=react-web3&theme=bear&hide_border=true" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=react-web3&theme=algolia&hide_border=true" />
 
 </a>
 
@@ -74,23 +74,23 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 
 <a href="https://github.com/mehmet5643/stakeWeb3">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=stakeWeb3&theme=bear&hide_border=true" />
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=stakeWeb3&theme=algolia&hide_border=true" />
 </a>
    <br>
 
 
 <a href="https://github.com/mehmet5643/ai-mern-image-generation">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=ai-mern-image-generation&theme=bear&hide_border=true"/>
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=ai-mern-image-generation&theme=algolia&hide_border=true"/>
 
 </a>
 
 <a href="https://github.com/mehmet5643/patika-Frontend">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=patika-Frontend&theme=bear&hide_border=true"/>
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=patika-Frontend&theme=algolia&hide_border=true"/>
 
 </a>
    
 <a href="https://github.com/mehmet5643/Solidity">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Solidity&theme=bear&hide_border=true"/>
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet5643&repo=Solidity&theme=algolia&hide_border=true"/>
 
 </a>
    </p>
@@ -103,7 +103,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <p align="center">
 
 <a href="https://github.com/mehmet5643">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html&line_height=45,css&theme=bear&hide_border=true" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet5643&hide=html&line_height=45,css&theme=algolia&hide_border=true" />
 </a>
      </p>
   </div>
@@ -112,11 +112,11 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <div class="col">
    <p align="center">
 <a href="https://github.com/mehmet5643">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=bear&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mehmet5643&show_icons=true&line_height=27&count_private=true&theme=algolia&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
    </p>
     <p align="center">  
-  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=bear&hide_border=true">
+  <img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=mehmet5643&theme=algolia&hide_border=true">
    </p>
    </div>
   
