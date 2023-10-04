@@ -1,6 +1,7 @@
-[![MEHMET ALİ ÇAKMAK](https://github.com/mehmet5643/mehmet5643/blob/main/asset/github_banner.png
+[![MEHMET ALİ ÇAKMAK](https://github.com/mehmet5643/mehmet5643/blob/main/asset/banner.png
 )](https://mehmetalicakmak.org/)
-<br>
+<br/>
+
 [![Fallower](https://img.shields.io/github/followers/mehmet5643?color=Red&logoColor=Grey&style=social)](https:mehmetalicakmak.org)
 &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:mehmet_cbu63@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MehmetSoftw)
