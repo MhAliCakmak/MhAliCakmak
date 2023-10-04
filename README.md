@@ -95,7 +95,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <div class="col">
    <p align="center">
 <a href="https://github.com/MhAliCakmak">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MhAliCakmak&show_icons=true&line_height=27&count_private=true&theme=algolia&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MhAliCakmak&show_icons=true&line_height=27&include_all_commits=true&count_private=true&theme=algolia&hide_border=true" alt="Mehmet Ali's GitHub Stats" />
 </a>
    </p>
     <p align="center">  
