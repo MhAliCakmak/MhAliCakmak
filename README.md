@@ -45,8 +45,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 <br>
 <p align="center">
-<a href="https://github.com/MhAliCakmak/Marketplace-web3">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=Marketplace-web3&theme=algolia&hide_border=true" />
+<a href="https://github.com/MhAliCakmak/nft-marketplace">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=nft-marketplace&theme=algolia&hide_border=true" />
 </a>
 
 <a href="https://github.com/MhAliCakmak/react-web3">
