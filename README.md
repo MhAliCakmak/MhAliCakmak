@@ -86,7 +86,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 <p align="center">
 
 <a href="https://github.com/MhAliCakmak">
-  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhAliCakmak&hide=html&line_height=45,css&theme=algolia&hide_border=true" />
+  <img align="center" style="margin:0.7rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhAliCakmak&count_private=true&hide=html&line_height=45,css&theme=algolia&hide_border=true" />
 </a>
      </p>
   </div>
