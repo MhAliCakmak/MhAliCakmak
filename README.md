@@ -45,9 +45,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 <br>
 <p align="center">
-<a href="https://github.com/MhAliCakmak/nft-marketplace">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=nft-marketplace&theme=algolia&hide_border=true" />
-</a>
+
 
 <a href="https://github.com/MhAliCakmak/react-web3">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=react-web3&theme=algolia&hide_border=true" />
@@ -56,9 +54,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 <br>
 
-<a href="https://github.com/MhAliCakmak/stakeWeb3">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=stakeWeb3&theme=algolia&hide_border=true" />
-</a>
+
    <br>
 
 <a href="https://github.com/MhAliCakmak/ai-mern-image-generation">
