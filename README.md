@@ -51,11 +51,14 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=react-web3&theme=algolia&hide_border=true" />
 
 </a>
+<a href="https://github.com/MhAliCakmak/NFTMarketplace">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=NFTMarketplace&theme=algolia&hide_border=true"/>
+
+</a>
 
 <br>
 
 
-   <br>
 
 <a href="https://github.com/MhAliCakmak/ai-mern-image-generation">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=ai-mern-image-generation&theme=algolia&hide_border=true"/>
@@ -66,6 +69,7 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=AU_ETH_Bootcamp&theme=algolia&hide_border=true"/>
 
 </a>
+
    
 <a href="https://github.com/MhAliCakmak/Solidity">
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=Solidity&theme=algolia&hide_border=true"/>
