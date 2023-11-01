@@ -65,8 +65,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 </a>
 
-<a href="https://github.com/MhAliCakmak/AU_ETH_Bootcamp">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=AU_ETH_Bootcamp&theme=algolia&hide_border=true"/>
+<a href="https://github.com/MhAliCakmak/NFTBoostStake">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=NFTBoostStake&theme=algolia&hide_border=true"/>
 
 </a>
 
