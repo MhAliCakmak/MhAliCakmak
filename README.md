@@ -105,14 +105,6 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
   
 </div>
 
-## &#128514;Random Dev Meme
-
-<br/>
-<p align="center">
-   
-<img align="center" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</p>
-<br/>
 
 <h2 align="center">🤝 Support</h2>
 
