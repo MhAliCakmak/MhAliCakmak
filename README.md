@@ -12,7 +12,7 @@ Hey there 👋
 
 I work in the fields of Blockchain technology, dApp, DeFi. I have an innovative personality that does not lose its researcher spirit in the field of Blockchain. I am confident in leadership and project management and I am Blockchain Developer
 
-Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mehmet-ali-cakmak--software/)<br>
+Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/in/mhalicakmak/)<br>
 
 ## Note
 
