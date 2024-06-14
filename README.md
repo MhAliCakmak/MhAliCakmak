@@ -1,11 +1,10 @@
 [![MEHMET ALİ ÇAKMAK](https://github.com/MhAliCakmak/MhAliCakmak/blob/main/asset/banner3.png)](https://mehmetalicakmak.org/)
 <br/>
 
-[![Fallower](https://img.shields.io/github/followers/MhAliCakmak?color=Red&logoColor=Grey&style=social)](https:mehmetalicakmak.org)
+[![Fallower](https://img.shields.io/github/followers/MhAliCakmak?color=Red&logoColor=Grey&style=social)](https://github.com/MhAliCakmak?tab=followers)
 &ensp;[![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:mehmet_cbu63@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MehmetSoftw)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mhalicakmak/)
-[![Blog](https://img.shields.io/badge/-Blog-000000?style=flat-square&logoColor=FFFFFF)](https://mehmetalicakmak.org)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logoColor=FFFFFF)](https://mehmetalicakmak.org)
 ![](https://komarev.com/ghpvc/?username=MhAliCakmak&color=blueviolet&style=flat-square)
 
 Hey there 👋
