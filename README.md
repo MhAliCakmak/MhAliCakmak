@@ -50,8 +50,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=stack_overflow_nextjs13&theme=algolia&hide_border=true" />
 
 </a>
-<a href="https://github.com/MhAliCakmak/NFTMarketplace">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=NFTMarketplace&theme=algolia&hide_border=true"/>
+<a href="https://github.com/MhAliCakmak/nft-marketplace">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=nft-marketplace&theme=algolia&hide_border=true"/>
 
 </a>
 
