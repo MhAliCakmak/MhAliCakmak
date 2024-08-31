@@ -59,8 +59,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 
 
-<a href="https://github.com/MhAliCakmak/ai-mern-image-generation">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=ai-mern-image-generation&theme=algolia&hide_border=true"/>
+<a href="https://github.com/MhAliCakmak/Yoom-Video-Conferencing-App">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=Yoom-Video-Conferencing-App&theme=algolia&hide_border=true"/>
 
 </a>
 
