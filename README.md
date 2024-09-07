@@ -73,8 +73,8 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 
 </a>
    
-<a href="https://github.com/MhAliCakmak/buyMeACoffee-web3">
-   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=buyMeACoffee-web3&theme=algolia&hide_border=true"/>
+<a href="https://github.com/MhAliCakmak/Imaginify-Ai-Saas-App">
+   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=MhAliCakmak&repo=Imaginify-Ai-Saas-App&theme=algolia&hide_border=true"/>
 
 </a>
    </p>
